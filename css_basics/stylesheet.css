@@ -1,0 +1,20 @@
+*{color: #6A7C8A;font-family: Arial ;Font-size:70px;}
+
+
+body {
+
+background-image: url("http://www.cancello.de/wp-content/uploads/2012/07/pizza.jpg");
+}
+.class_test {color: red;Font-size:30px;}
+.grande{font-size: 100px;}
+#id_test {color:2E4272;Font-size:30px}
+
+.hover_test:hover{
+    font-size: 50px;
+    color:226666;
+    text-decoration: none;
+}
+a:visited{
+    
+    color:226666;
+}
